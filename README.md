@@ -2,11 +2,15 @@
 
 ramdomcolor
 
-# How to run
-
 Project made using Expo with blank-typescript template.
 
-Just download the project, with the react native dependencies installed, enter the folder and run: 'npx expo start' and then follow the instructions depending on the execution device.
+# How to run
+
+1 - Just download the project with git clone, with the react native dependencies installed,
+
+2 - open the terminal in the project folder and run: 'npm install' to install the dependencies.
+
+3 - Run: 'npx expo start' and then follow the instructions depending on the execution device.
 
 # How the project works
 
