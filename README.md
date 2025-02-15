@@ -10,7 +10,7 @@ Project made using Expo with blank-typescript template.
 
 2 - open the terminal in the project folder and run: 'npm install' to install the dependencies.
 
-3 - Run: 'npx expo start' and then follow the instructions depending on the execution device.
+3 - Install Expo Go in your device and run: 'npx expo start' and then follow the instructions depending on the execution device.
 
 # How the project works
 
